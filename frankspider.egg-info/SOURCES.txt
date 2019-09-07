@@ -1,0 +1,7 @@
+setup.py
+frankspider.egg-info/PKG-INFO
+frankspider.egg-info/SOURCES.txt
+frankspider.egg-info/dependency_links.txt
+frankspider.egg-info/top_level.txt
+fspider/__init__.py
+fspider/test.py
